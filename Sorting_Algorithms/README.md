@@ -44,4 +44,4 @@ Welcome to the **Sorting Algorithms Mastery** repository! This repository contai
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone [https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME.git)
+   git clone [https://github.com/JaySharma424/Dsa_with_python.git](https://github.com/JaySharma424/Dsa_with_python.git)
