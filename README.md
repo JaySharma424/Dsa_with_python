@@ -30,7 +30,6 @@ This repository includes practice problems from topics such as:
 - Strings
 - Searching
 - Sorting
-- Binary Search
 - Recursion
 - Backtracking
 - Linked List
@@ -39,9 +38,9 @@ This repository includes practice problems from topics such as:
 - Hashing
 - Sliding Window
 - Two Pointers
-- Trees *(ongoing)*
-- Graphs *(ongoing)*
-- Dynamic Programming *(learning phase)*
+- Trees 
+- Gready Algorithm
+- Dynamic Programming *
 
 ---
 
